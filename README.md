@@ -1,0 +1,1 @@
+Lucas. Jeg har lavet 4 subklasser, Jedi, Droid, Sith og Clonetrooper. Jeg har lavet en super klasse (Character) og gjort name og age til protected, så de kun kan tilgås i subklasserne + gjort goLive final, så goLive ikke kan overrides. Bagefter har jeg lavet en arrayliste i main. Jeg har tilføjet de forskellige typer til min arrayliste og udskriver det ved brug af et loop. 
